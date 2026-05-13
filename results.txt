@@ -1,0 +1,112 @@
+*************************************************************
+Airport: London Heathrow (LHR)   Year: 2025
+*************************************************************
+1. Total flights: 490
+2. Terminal 2 flights: 106
+3. Flights under 600 miles: 231
+4. Air France flights: 67
+5. Flights in temperatures under 15°C: 0
+6. Avg British Airways flights per hour: 13.25
+7. British Airways % of all flights: 32.45%
+8. Air France delayed %: 31.34%
+9. Rain hours: 192
+10. Least common destinations: ['Madrid Adolfo Suárez-Barajas']
+
+*************************************************************
+Airport: London Heathrow (LHR)   Year: 2025
+*************************************************************
+1. Total flights: 490
+2. Terminal 2 flights: 106
+3. Flights under 600 miles: 231
+4. Air France flights: 67
+5. Flights in temperatures under 15°C: 0
+6. Avg British Airways flights per hour: 13.25
+7. British Airways % of all flights: 32.45%
+8. Air France delayed %: 31.34%
+9. Rain hours: 192
+10. Least common destinations: ['Madrid Adolfo Suárez-Barajas']
+
+*************************************************************
+Airport: Charles De Gaulle International (CDG)   Year: 2021
+*************************************************************
+1. Total flights: 41
+2. Terminal 2 flights: 7
+3. Flights under 600 miles: 23
+4. Air France flights: 8
+5. Flights in temperatures under 15°C: 0
+6. Avg British Airways flights per hour: 0.42
+7. British Airways % of all flights: 12.2%
+8. Air France delayed %: 25.0%
+9. Rain hours: 23
+10. Least common destinations: ['Amsterdam Schiphol']
+
+*************************************************************
+Airport: London Heathrow (LHR)   Year: 2025
+*************************************************************
+1. Total flights: 490
+2. Terminal 2 flights: 106
+3. Flights under 600 miles: 231
+4. Air France flights: 67
+5. Flights in temperatures under 15°C: 0
+6. Avg British Airways flights per hour: 13.25
+7. British Airways % of all flights: 32.45%
+8. Air France delayed %: 31.34%
+9. Rain hours: 192
+10. Least common destinations: ['Madrid Adolfo Suárez-Barajas']
+
+*************************************************************
+Airport: Charles De Gaulle International (CDG)   Year: 2021
+*************************************************************
+1. Total flights: 41
+2. Terminal 2 flights: 7
+3. Flights under 600 miles: 23
+4. Air France flights: 8
+5. Flights in temperatures under 15°C: 0
+6. Avg British Airways flights per hour: 0.42
+7. British Airways % of all flights: 12.2%
+8. Air France delayed %: 25.0%
+9. Rain hours: 23
+10. Least common destinations: ['Amsterdam Schiphol']
+
+*************************************************************
+Airport: London Heathrow (LHR)   Year: 2025
+*************************************************************
+1. Total flights: 490
+2. Terminal 2 flights: 106
+3. Flights under 600 miles: 231
+4. Air France flights: 67
+5. Flights in temperatures under 15°C: 0
+6. Avg British Airways flights per hour: 13.25
+7. British Airways % of all flights: 32.45%
+8. Air France delayed %: 31.34%
+9. Rain hours: 192
+10. Least common destinations: ['Madrid Adolfo Suárez-Barajas']
+
+*************************************************************
+Airport: London Heathrow (LHR)   Year: 2025
+*************************************************************
+1. Total flights: 490
+2. Terminal 2 flights: 106
+3. Flights under 600 miles: 231
+4. Air France flights: 67
+5. Flights in temperatures under 15°C: 0
+6. Avg British Airways flights per hour: 13.25
+7. British Airways % of all flights: 32.45%
+8. Air France delayed %: 31.34%
+9. Rain hours: 192
+10. Least common destinations: ['Madrid Adolfo Suárez-Barajas']
+
+*************************************************************
+Airport: London Heathrow (LHR)   Year: 2025
+*************************************************************
+1. Total flights: 490
+2. Terminal 2 flights: 106
+3. Flights under 600 miles: 231
+4. Air France flights: 67
+5. Flights in temperatures under 15°C: 0
+6. Avg British Airways flights per hour: 13.25
+7. British Airways % of all flights: 32.45%
+8. Air France delayed %: 31.34%
+9. Rain hours: 192
+10. Least common destinations: ['Madrid Adolfo Suárez-Barajas']
+
